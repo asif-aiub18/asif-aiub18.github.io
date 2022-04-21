@@ -24,7 +24,7 @@
                 <li><a href="status.php">Registration Status</a></li>
                 <li><a href="GetLogin.php">Vaccine card</a></li>
                 <li><a href="certificate.php">Vaccine Certificate</a></li>
-                <li><a href="Web-Portal-User-Manual.pdf">Manual</a></li>
+                <li><a href="WebPortalUserManual.pdf">Manual</a></li>
             </ul>
             <div class="icon menu-btn">
                 <i class="fas fa-bars"></i>

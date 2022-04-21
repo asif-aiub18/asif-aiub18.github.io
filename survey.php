@@ -28,7 +28,7 @@ $data=$sql->fetch_assoc();
         
     }
 </style>
-<body style="background:  url(https://www.everbridge.com/wp-content/uploads/covid-vaccine-registration.jpg); height: 100%; width:100%;background-size: cover;
+<body style="background:  url(https://cdnuploads.aa.com.tr/uploads/Contents/2021/05/23/thumbs_b_c_89923c2bc92fa3c19736da207e8198ac.jpg?v=165644); height: 100%; width:100%;background-size: cover;
     position: fixed;">
 <div class="ox">
 <h2>Your Details:</h2>
